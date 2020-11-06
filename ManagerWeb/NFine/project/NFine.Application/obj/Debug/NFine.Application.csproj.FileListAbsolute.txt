@@ -1,0 +1,92 @@
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Application.dll
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Application.pdb
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\Newtonsoft.Json.dll
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Code.dll
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Data.dll
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Domain.dll
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Repository.dll
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\log4net.dll
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NPOI.dll
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\EntityFramework.dll
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Code.pdb
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Data.pdb
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Domain.pdb
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Repository.pdb
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\Newtonsoft.Json.xml
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\log4net.xml
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NPOI.xml
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\EntityFramework.xml
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\obj\Debug\NFine.Application.csprojAssemblyReference.cache
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\obj\Debug\NFine.Application.csproj.CoreCompileInputs.cache
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\obj\Debug\NFine.Application.csproj.CopyComplete
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\obj\Debug\NFine.Application.dll
+E:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\obj\Debug\NFine.Application.pdb
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Application.dll
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Application.pdb
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\Newtonsoft.Json.dll
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Code.dll
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Data.dll
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Domain.dll
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Repository.dll
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\log4net.dll
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NPOI.dll
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\EntityFramework.dll
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Code.pdb
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Data.pdb
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Domain.pdb
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NFine.Repository.pdb
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\Newtonsoft.Json.xml
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\log4net.xml
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\NPOI.xml
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\bin\Debug\EntityFramework.xml
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\obj\Debug\NFine.Application.csprojResolveAssemblyReference.cache
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\obj\Debug\NFine.Application.dll
+F:\袁杨飞Work\nfine-NFine-master\NFine\project\NFine.Application\obj\Debug\NFine.Application.pdb
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Application.dll
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Application.pdb
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\Newtonsoft.Json.dll
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Code.dll
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Data.dll
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Domain.dll
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Repository.dll
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\log4net.dll
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NPOI.dll
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\EntityFramework.dll
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Code.pdb
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Data.pdb
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Domain.pdb
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Repository.pdb
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\Newtonsoft.Json.xml
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\log4net.xml
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NPOI.xml
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\bin\Debug\EntityFramework.xml
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\obj\Debug\NFine.Application.csprojResolveAssemblyReference.cache
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\obj\Debug\NFine.Application.dll
+G:\ManagerProject\ManagerProject\ManagerWeb\NFine\project\NFine.Application\obj\Debug\NFine.Application.pdb
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Application.dll
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Application.pdb
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Code.dll
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Data.dll
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Domain.dll
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Repository.dll
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\log4net.dll
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NPOI.dll
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\EntityFramework.dll
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Code.pdb
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Data.pdb
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Domain.pdb
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NFine.Repository.pdb
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\log4net.xml
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\NPOI.xml
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\bin\Debug\EntityFramework.xml
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\obj\Debug\NFine.Application.csprojAssemblyReference.cache
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\obj\Debug\NFine.Application.csproj.CoreCompileInputs.cache
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\obj\Debug\NFine.Application.csproj.CopyComplete
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\obj\Debug\NFine.Application.dll
+D:\Documents\WeChat Files\wxid_yq3b927sgfgm22\FileStorage\File\2020-11\ManagerWeb\ManagerWeb\NFine\project\NFine.Application\obj\Debug\NFine.Application.pdb
